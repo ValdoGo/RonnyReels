@@ -1,0 +1,6 @@
+{
+  "name": "FreeReels - Novelas & Dramas Curtos",
+  "description": "Assista às melhores novelas curtas, minisséries e micro-dramas online. Curta episódios, deixe comentários e acompanhe reviravoltas emocionantes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
